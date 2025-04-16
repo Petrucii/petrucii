@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs&color=00bfbf" style="max-width: 100%;" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cs,py&color=00bfbf" style="max-width: 100%;" />
   </a>
 </p>
 <p align="center">
