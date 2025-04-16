@@ -7,7 +7,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Cambria&size=40&lines=Be+Welcome;Hello%2C+I'm+Marcos+Henrique+Petruci;I'm+27+years+old;I+am+from+S%C3%A3o+Paulo%2C+SP;Technical+Study+in+IT%2C+Senac&color=abd200&center=true&vCenter=true&width=1000&height=100&duration=3000" />
   </a>
 </p>
-
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=abd200&height=120&section=footer"/>
+</p>
 <hr/>
 
 <p align="center">
