@@ -25,7 +25,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=petrucii&show_icons=true&locale=en&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="petrucii" />
 </p>
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=petrucii&" alt="petrucii" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=petrucii&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"" alt="petrucii" />
 </p>
 
 <p align="center">
