@@ -16,8 +16,13 @@
   </a>
 </p>
 <p align="center">
+  <p>
    <img src="https://github-readme-stats.vercel.app/api?username=petrucii&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="petrucii's GitHub Stats" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrucii&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="petrucii's GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrucii&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="petrucii's GitHub Stats" />
+  </p>
+  <p>
    <img src="https://streak-stats.demolab.com?user=petrucii&theme=merko&hide_border=true" alt="petrucii's GitHub Stats" />
-
+  </p>
 
