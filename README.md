@@ -16,14 +16,8 @@
   </a>
 </p>
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=petrucii&&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="petrucii" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrucii&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="petrucii's GitHub Stats" />
-</p>
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=petrucii&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="petrucii's GitHub Stats" alt="petrucii" />
-</p>
-<img src="https://streak-stats.demolab.com?user=petrucii&theme=merko&hide_border=true" alt="petrucii's GitHub Stats" alt="petrucii"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=petrucii&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="petrucii's GitHub Stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrucii&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="petrucii's GitHub Stats" />
+   <img src="https://streak-stats.demolab.com?user=petrucii&theme=merko&hide_border=true" alt="petrucii's GitHub Stats" />
 
 
