@@ -24,12 +24,6 @@
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=petrucii&show_icons=true&locale=en&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="petrucii" />
 </p>
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=petrucii&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="petrucii" />
-</p>
+<img src="https://streak-stats.demolab.com?user=petrucii&theme=merko&hide_border=true" alt="petrucii's GitHub Stats" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WagnerXD&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Wagner Araujo Correia github stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerXD&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top Languages" width="41%" />
-</p>
 
