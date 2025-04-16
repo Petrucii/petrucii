@@ -25,4 +25,4 @@
   <p>
    <img src="https://streak-stats.demolab.com?user=petrucii&theme=merko&hide_border=true" alt="petrucii's GitHub Stats" />
   </p>
-
+</p>
